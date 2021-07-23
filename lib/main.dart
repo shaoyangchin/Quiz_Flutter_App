@@ -11,7 +11,6 @@ import './result.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
-  @override
   State<StatefulWidget> createState() {
     // ignore: todo
     // TODO: implement createState
